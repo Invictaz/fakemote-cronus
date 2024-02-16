@@ -1,9 +1,9 @@
 # *_fakemote_*
-_A Wii cIOS module that fakes Wiimotes from the input of Cronus devices
+A Wii cIOS module that fakes Wiimotes from the input of Cronus devices
 
 ## Features
 
-### Supported USB game controllers
+### Supported USB devices
 | Device Name              | Vendor Name | Vendor ID | Product ID |
 |:------------------------:|:-----------:|:---------:|:----------:|
 | PlayStation 3 Controller | Sony Corp.  | 054c      | 0268       |
